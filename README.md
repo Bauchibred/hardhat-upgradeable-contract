@@ -1,11 +1,6 @@
 # Hardhat Upgrades
 
-This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
 
-_[⌨️ (28:53:11) Lesson 16: Hardhat Upgrades](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=103991s)_
-_This repo has been updated to work with Goerli over Rinkeby._
-
-[Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 
 - [Hardhat Upgrades](#hardhat-upgrades)
 - [Getting Started](#getting-started)
